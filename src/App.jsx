@@ -1,8 +1,8 @@
 import React from "react";
 
 const App = () => (
-    <div className="bg-primary">
-        <h1>HELLO WORLD</h1>
+    <div className="w-full overflow-hidden bg-primary">
+        <div>HELLO WORLD</div>
     </div>
 );
 
